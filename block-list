@@ -1,8 +1,17 @@
-173.194.219.139
-8.8.8.8
-8.8.4.4
-157.240.24.35
-104.244.42.193
-104.244.42.129
-151.101.65.67
-23.39.41.42
+#######################################################################################################################################################################
+# 
+# block-list is a RBL list of servers that have attempted to hack my servers.
+# It is designed to be used by pfBlockerNG on pfSense, but it should work with any system that accepts RBL lists of IP addresses.
+# I normally update it once or twice a week.                                                        
+# The latest version of block-list is available from https://pfblockerlists.smallbusinesstech.net/hackerlist.txt
+# block-list is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+# block-list is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+# You should have received a copy of the GNU General Public License along withblock-list .  If not, see <http://www.gnu.org/licenses/>.
+#
+192.241.224.138
+92.118.161.57
+81.161.63.253
+89.248.168.240
+192.241.222.30
